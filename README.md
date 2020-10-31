@@ -13,11 +13,11 @@ Python background: I had <1 month of python when I applied to the program (I fou
 place while doing the Python 3 coursera...), so 6 months by the time I entered the program. Less than 6 of actual
 practical experience, though, since I spent most of that time prior to the program interviewing for a new job.
 
-Statistics background: not much, I ended up focusing more on theory in my CS major to fulfill math requirements 
+Statistics background: Basic stats. I ended up focusing more on theory in my CS major to fulfill math requirements 
 over applied courses. Still, probably sufficient for this masters, I guess? I just reviewed Statistics in Plain English
 before I took the assessment. 
 
-Other math: Single variable calculus, linear algebra, probability and combinatorics. 
+Other math courses taken: Single variable calculus, linear algebra, probability/combinatorics. Analysis of algos, etc. 
 
 Family/work/lifestyle: Full time job, 50 hours/week, children, gym
 
