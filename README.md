@@ -19,7 +19,8 @@ before I took the assessment.
 
 Other math courses taken: Single variable calculus, linear algebra, probability/combinatorics. Analysis of algos, etc. 
 
-Family/work/lifestyle: Full time job, 50 hours/week, children, gym
+Family/work/lifestyle: Full time job, 50 hours/week, children, gym (1 hour a day). Early on, was also taking language
+classes which stopped when Covid happened. 
 
 General number of courses I take per month: I started at 1/month then switched to 2. Occasionally I'll drop to 1 if
 my work/personal life is very busy for that month. 
