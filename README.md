@@ -117,12 +117,12 @@ Workload: medium
 
 #### SIADS 523 - Communicating Data Science Results
 This is definitely something that is a lot easier if you're already used to presenting stuff at work. A lot of emphasis
-on style, readability, cohesively combining information in a format for non-quantitative folks. This is a HUGE time sink
-because it combines all the costs of building an attractive presentation, doing research, AND presenting (you have to 
-submit a 5 minute recording of your presentation) but without a team to help you out. I found this the biggest timesink
-of all classes in this program, but it was partly because it was during the height of COVID, but also because I find
-making Powerpoint presentations very laborious for the same reasons I find making visualizations very laborious: I am 
-always fixing things.
+on style, readability, and being able to cohesively combine information in a format for non-quantitative folks. 
+This is a HUGE time sink because it combines all the costs of building an attractive presentation, doing research, 
+AND presenting (you have to submit a 5 minute recording of your presentation) but without a team to help you out. I 
+found this the biggest timesink of all classes in this program, but it was partly because it was during the height of 
+COVID, but also because I find making Powerpoint presentations very laborious for the same reasons I find making 
+visualizations very laborious: I am always fixing things.
 
 Workload: heavy
 
@@ -166,16 +166,23 @@ Workload: medium
 
 #### SIADS 601 - Qualitative Inquiry for Data Scientists
 
-#### SIDAS 611 - Database Architecture and Technology
+#### SIADS 611 - Database Architecture and Technology
 An extension of 511. Still in Postgres. You get to play with a lot of the cool postgres features that not all dbs have.
 
 Workload: light
 
-#### SIDAS 622 - Information Visualization II
+#### SIADS 622 - Information Visualization II
 
 #### SIADS 630 - Causal Inference
 
 #### SIDAS 631 - Experiment Design and Analysis
+
+Taking currently. Jury is out. Programming assignments on par with 522 - there is a little bit of time required to
+master them but not so significant that it's a time killer. Don't like moblabs. A lot of reading (so far) and the quizzes
+by far more annoying than the programming assignments. Really nice videos, though, I think I could listen to Yan Chen
+talk forever. 
+
+Workload (tentative): medium
 
 #### SIADS 632 - Data Mining II
 Extremely fun course. Lots of time series data work! Workload significantly heavier compared to other SIADS courses so
@@ -188,7 +195,7 @@ Workload: medium/heavy
 #### SIADS 642 - Deep Learning I
 
 #### SIADS 643 - Machine Learning Pipelines
-The "time I should know how to use Git" course. If you already have a regular dev style background this course should
+The "about time I should learn to use Git" course. If you already have a regular dev style background this course should
 take you, like, less than an hour or two to get through. I'm not even a dev and I finished this in less than 16 hours 
 (this includes the time I slept and went to work). Videos short and to the point, which I actually find
 very nice, actually. I actually learned quite a bit in this course, but it is also not a long course.
