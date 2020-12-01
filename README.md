@@ -1,9 +1,4 @@
-# MADS
-
-Thought I'd write this up because this question gets asked repeatedly, but also because the answer does vary on your 
-background so adjust accordingly. 
-
-Current cohort: Fall 2019
+# Sharon Sung (Fall 2019 Cohort)
 
 ### Personal Background
 Undergrad:  CS major undergrad. Most of my entire career involved little to no programming,
@@ -24,7 +19,8 @@ Other math courses taken: Single variable calculus, linear algebra, probability/
 Family/work/lifestyle: Full time job (50 hours/week not including commute), children, gym (1 hour a day). 
 Early on, was also taking language classes which stopped when Covid happened. 
 
-General number of courses I take per month: I started at 1/month then switched to 2. Occasionally I'll drop to 1 if
+General number of courses I take per month: I started at 1/month then switched to 2 and upwards to 3 if classes are
+coding heavy because I find those, timewise, the least intensive. Occasionally I'll drop to 1 if
 my work/personal life is very busy for that month or I want to exclusively focus on a topic. 
 
 #### SIADS 501 - Being a Data Scientist
@@ -59,13 +55,13 @@ Workload: heavy
 
 #### SIADS 505 - Data Manipulation
 
-I actually took most of the Umich data science Coursera as well prior to starting the program and absolutely remember
+I actually took most of the UMich data science Coursera as well prior to starting the program and absolutely remember
 trying furiously to finish the whole damn thing in a week because, well, the whole thing was free during the trial week. 
 Failed largely because data manipulation course (the one that introduces pandas to you) took me a whole three days to 
 finish, and then like, months afterward to even get comfortable. What helped was during my interview process for data 
 analyst positions, I had to do a lot of jupyter notebook trials and they all had 24-48 hour turnaround times so getting 
 extremely fast was a priority. This I think can be a timesink if you are new to pandas and even more of a timesink if 
-you're new to programming. Strongly recommend taking the first or second data science Umich thing in advance if you can
+you're new to programming. Strongly recommend taking the first or second data science UMich thing in advance if you can
 since the format is very similar. Otherwise I found it doable. 
 
 Workload: medium/heavy (medium until assignment 4)
@@ -100,7 +96,7 @@ Workload: light/medium
 #### SIADS 521 - Visual Exploration of Data
 A natural extension of 505, but now with matplotlib and one assignment in a visualization library of your choice (I 
 chose Bokeh). I feel sometimes matplotlib is almost as esoteric as pandas. I generally find all 
-visualization based assigments, whether code heavy or otherwise, quite a time sink; you're always looking to fix this 
+visualization based assignments, whether code heavy or otherwise, quite a time sink; you're always looking to fix this 
 color, add that legend, rename this title, format the kerning.... and so on and so forth. The final few assignments 
 give you a lot of autonomy to choose direction and this will cost you a lot of time if you are a perfectionist. Also,
 I think the extra credit available for this course (it varies by cohort) is an even bigger time sink than the actual 
@@ -126,13 +122,12 @@ visualizations very laborious: I am always fixing things.
 
 Workload: heavy
 
-#### SIADS 524 - Presenting Uncertainty
-
 #### SIADS 532 - Data Mining I
 Extremely fun. I honestly don't even remember any real issues with this class because there had been no bugs and the
 lecture slides extremely clearcut. Although, I felt Week 4 (edit distance) seemed out of place in the curriculum? Although
 it does show up later again. Have to be comfortable with some math, though. Remember finishing this in about a week as 
-well. 
+well. One note: the quizzes are harder than you'd think and you only get 1 try. Also worth like 15% of your grade. 
+Good luck!
 
 Workload: light/medium
 
@@ -148,7 +143,8 @@ At this point all of the material in this course was new to me, but did not find
 than what is in 542. A little less zombie like in that the problems are no longer are "here's some data, shove it in to
 the classifier and predict away." However, quite a larger emphasis on numpy work so, like, get comfortable with matrix 
 math if you can. I took this with 632 and found the workload very doable, although there is definitely lumpiness on 
-workload week by week. 
+workload week by week. To be fair I was locked in a hotel room for quarantine in Korea at the time, I had nothing BUT
+time.
 
 Workload: light/medium
 
@@ -164,25 +160,22 @@ like... 2-3 paragraphs long at best?).
 
 Workload: medium
 
-#### SIADS 601 - Qualitative Inquiry for Data Scientists
-
 #### SIADS 611 - Database Architecture and Technology
 An extension of 511. Still in Postgres. You get to play with a lot of the cool postgres features that not all dbs have.
 
 Workload: light
 
-#### SIADS 622 - Information Visualization II
+#### SIADS 631 - Experiment Design and Analysis
 
-#### SIADS 630 - Causal Inference
+Programming assignments on par with 522 - there is a little bit of time required to master them but not so significant 
+that it's a time killer. Moblabs interesting theoretically but I'm on the fence on how they're graded - in the 
+current iteration you get either 50% or 100% since out of the 2 points for each moblab you get 1 for participating and 
+then the remainder is based on your score relative to the rest of the class - which is rounded to the nearest 
+integer. If we assume a normal distribution of scores then it should be roughly 50/50 probability. A fair amount of 
+reading (actually quite a lot of reading although a significant amount not tested) and quizzes by far more annoying 
+than the programming assignments. Really nice videos, though, I think I could listen to Yan Chen talk forever. 
 
-#### SIDAS 631 - Experiment Design and Analysis
-
-Taking currently. Jury is out. Programming assignments on par with 522 - there is a little bit of time required to
-master them but not so significant that it's a time killer. Don't like moblabs. A lot of reading (so far) and the quizzes
-by far more annoying than the programming assignments. Really nice videos, though, I think I could listen to Yan Chen
-talk forever. 
-
-Workload (tentative): medium
+Workload: medium
 
 #### SIADS 632 - Data Mining II
 Extremely fun course. Lots of time series data work! Workload significantly heavier compared to other SIADS courses so
@@ -192,12 +185,20 @@ as you assess your own experience. I personally found this course quite a great 
 
 Workload: medium/heavy
 
-#### SIADS 642 - Deep Learning I
+#### SIADS 642 - Deep Learning
+Almost no programming required. Four written assignments about deep learning. Your mileage may vary on whether or not
+you find this beneficial or not; I find that most deep learning code is relatively lightweight so don't really
+see much of an issue on it being more about the structure. But I'm also more comfortable with coding on my own. I 
+spent a lot of time reading a lot of articles and thinking about stuff. You'll find a lot of contradictory statements
+about deep learning on the internet, btw, so I do think it is worthwhile to reflect a bit.
+
+Workload: light/medium 
 
 #### SIADS 643 - Machine Learning Pipelines
 The "about time I should learn to use Git" course. If you already have a regular dev style background this course should
 take you, like, less than an hour or two to get through. I'm not even a dev and I finished this in less than 16 hours 
 (this includes the time I slept and went to work). Videos short and to the point, which I actually find
-very nice, actually. I actually learned quite a bit in this course, but it is also not a long course.
+very nice, actually. I actually learned quite a bit in this course, but it is also not a long course. I think it 
+could use a bit more material to take on. 
 
 Workload: light
