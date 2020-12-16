@@ -23,6 +23,9 @@ General number of courses I take per month: I started at 1/month then switched t
 coding heavy because I find those, timewise, the least intensive. Occasionally I'll drop to 1 if
 my work/personal life is very busy for that month or I want to exclusively focus on a topic. 
 
+I also tend to forget about what I'm listening to while I code so I pretty much associate all these classes with 1 or 2
+songs that I accidently left on repeat.  
+
 #### SIADS 501 - Being a Data Scientist
 Similar to 503, quite a great deal of writing. Writing for this one might seem a bit easier to write since it's very 
 focused on your goals/needs and that might be easier to assess than ethics. I would say this has more writing than 503
@@ -73,6 +76,8 @@ necessarily be generalizable to other dbs. Still, a very solid start.
 
 Workload: light
 
+Songs: Rasster's Sad (Imanbek remix). Covid was getting to me. 
+
 #### SIADS 515 - Efficient Data Processing
 
 The first iteration had all 4 assignments hand graded. Relatively light workload if you meet the bare minimum. Otherwise
@@ -81,6 +86,8 @@ efficiency (discussion of big O notation) etc. I found it fun but definitely nee
 more out of it.
 
 Workload: light/medium
+
+Songs: Mabel and a LOT of Becky G, esp. La Respuesta
 
 #### SIADS 516 - Big Data: Scalable Data Processing
 
@@ -93,6 +100,8 @@ use in postgres vs the sql you'd use in spark would differ, but maybe that's jus
 
 Workload: light/medium
 
+Songs: Mostly Vicetone at this point. Animal and a very nostalgic remix of Prodigy's Omen. 
+
 #### SIADS 521 - Visual Exploration of Data
 A natural extension of 505, but now with matplotlib and one assignment in a visualization library of your choice (I 
 chose Bokeh). I feel sometimes matplotlib is almost as esoteric as pandas. I generally find all 
@@ -103,6 +112,8 @@ I think the extra credit available for this course (it varies by cohort) is an e
 assignments. 
 
 Workload: medium/heavy
+
+Songs: Mamamoo's Hip and Gogobebe. Long descent in kpop at this point.
 
 #### SIADS 522 - Information Visualization I
 I feel like more of 521, but done in Altair, and more focused on presentation/interaction/interface. A little bit of
@@ -138,6 +149,8 @@ too difficult, per se.
 
 Workload: light/medium
 
+Songs: G-Idle. Can I mention how much I really like Soyeon? 
+
 #### SIADS 543 - Unsupervised Learning
 At this point all of the material in this course was new to me, but did not find the workload much significantly heavier
 than what is in 542. A little less zombie like in that the problems are no longer are "here's some data, shove it in to
@@ -160,10 +173,16 @@ like... 2-3 paragraphs long at best?).
 
 Workload: medium
 
+Songs: I became briefly obsessed with watching all the League of Legend videos so pretty much all the songs played 
+in the MVs. Take over, especially. Mostly ended up that way because the dance studio I like 1 million does a lots of
+choregraphy with KDA and youtube algo pointed that way. 
+
 #### SIADS 611 - Database Architecture and Technology
 An extension of 511. Still in Postgres. You get to play with a lot of the cool postgres features that not all dbs have.
 
 Workload: light
+
+Songs: Camila Cabello mostly. Shameless and Liar.
 
 #### SIADS 631 - Experiment Design and Analysis
 
@@ -202,3 +221,14 @@ very nice, actually. I actually learned quite a bit in this course, but it is al
 could use a bit more material to take on. 
 
 Workload: light
+
+#### SIADS 655 - Natural Language Processing
+NLP! You might have gotten a bit of a taste for it after doing n-gram stuff in Data Mining 2 or the little bit you get
+in Unsupervised Learning. Well, now you get more! You get to play with the spacy library, which is pretty cool. 
+The only downside to this class however is that the homeworks are a big fat NOPE as they stand. I would say charitably
+that the homeworks are, in fact, a test of human NLP ability rather than you discovering the joys of ML NLP. On
+the other hand, IF you manage to get through them, they are often quite interesting. You just may be defeated by the 
+debugging if you have the misfortune of making a mistake somewhere as you go through them. I really like the 
+NLP material though, lots of good stuff. 
+
+Workload: light (medium/heavy on debugging if you make a mistake somewhere)
