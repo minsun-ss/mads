@@ -24,7 +24,7 @@ coding heavy because I find those, timewise, the least intensive. Occasionally I
 my work/personal life is very busy for that month or I want to exclusively focus on a topic. 
 
 I also tend to forget about what I'm listening to while I code so I pretty much associate all these classes with 1 or 2
-songs that I accidently left on repeat.  
+songs that I leave on repeat.  
 
 #### SIADS 501 - Being a Data Scientist
 Similar to 503, quite a great deal of writing. Writing for this one might seem a bit easier to write since it's very 
@@ -133,6 +133,18 @@ visualizations very laborious: I am always fixing things.
 
 Workload: heavy
 
+#### SIADS 524 - Presenting Uncertainty
+They kept the original videos from March 2020/April 2020 which are not the greatest in resolution or quality (covid, 
+remember); with that said, the videos are actually really engaging. Visualizations done in Altair, so I hope you 
+remember 522, or do this as close as possible to 522 so you can keep Altair fresh in your mind. A course with quizzes + 
+programming assignments + written assignments (the writing portions have more weight than the programming due to 
+the nature of Altair). I found this a difficult course conceptually; I did fine on the quizzes, but never to the point
+where I was fully comfortable with what I was learning / had learned. A part of me is also a bit resistant to some
+of these design choices as well, but I think that's intrinsic to the nature of the material. 
+
+Workload: medium
+
+
 #### SIADS 532 - Data Mining I
 Extremely fun. I honestly don't even remember any real issues with this class because there had been no bugs and the
 lecture slides extremely clearcut. Although, I felt Week 4 (edit distance) seemed out of place in the curriculum? Although
@@ -221,6 +233,18 @@ very nice, actually. I actually learned quite a bit in this course, but it is al
 could use a bit more material to take on. 
 
 Workload: light
+
+#### SIADS 652 - Network Analysis
+Timely and convenient! Nothing like a global pandemic to let the epidemic networkx models sink in. This is a combo quiz
++ written answer + quiz course that leans heavier on programming assignments than other similarly structured courses, but
+because of it takes a bit longer to get through than a pure programming course (from my point of view) but less time
+than a full written course. I've used basic networkX before but this covers details about a lot of the various models 
+implemented within networkX, which is nice because networkX's documentation itself is a bit on the sparse side. 
+Programming assignments are one very long jupyter notebook, so be warned: like NLP, small bugs can potentially be a 
+huge timesink (there was one for the random seed, which is nigh impossible to debug on your own) since there are not 
+enough asserts in the homework. Also, many quiz questions can be answered using networkX and I strongly suggest you do so.
+
+Workload: medium
 
 #### SIADS 655 - Natural Language Processing
 NLP! You might have gotten a bit of a taste for it after doing n-gram stuff in Data Mining 2 or the little bit you get
