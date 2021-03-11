@@ -144,7 +144,6 @@ of these design choices as well, but I think that's intrinsic to the nature of t
 
 Workload: medium
 
-
 #### SIADS 532 - Data Mining I
 Extremely fun. I honestly don't even remember any real issues with this class because there had been no bugs and the
 lecture slides extremely clearcut. Although, I felt Week 4 (edit distance) seemed out of place in the curriculum? Although
@@ -171,6 +170,9 @@ math if you can. I took this with 632 and found the workload very doable, althou
 workload week by week. To be fair I was locked in a hotel room for quarantine in Korea at the time, I had nothing BUT
 time.
 
+Edit: I was a volunteer IA for the second iteration of this course; the new additional slides at the end of the course
+are very nice. 
+
 Workload: light/medium
 
 #### SIADS 591/592 - Milestone I
@@ -185,9 +187,22 @@ like... 2-3 paragraphs long at best?).
 
 Workload: medium
 
-Songs: I became briefly obsessed with watching all the League of Legend videos so pretty much all the songs played 
-in the MVs. Take over, especially. Mostly ended up that way because the dance studio I like 1 million does a lots of
-choregraphy with KDA and youtube algo pointed that way. 
+#### SIDAS 601 - Qualitative Inquiry for Data Scientists
+You have been forewarned, this course requires 3 interviews on a single project so you may need to scramble to find
+a project very quickly to schedule them. The course focuses on answering a qualitative question on a quantitative data 
+set, interviewing at least three stakeholders about it, building an affinity wall and writing a data report. 
+There are a handful of discussion questions to answer in the four weeks, mostly related to reflecting on what you've 
+done so far; I would say of the writing heavy courses (e.g., 501, 503, etc), this is in a sense the least intensive
+of the three because the bulk of the difficulty is in the scheduling and having a workable course project. 
+
+Having taken this course nearly a full year after taking my last qualitative course, I actually welcomed the break from
+coding to go back to writing since I needed the practice. I personally think doing data science - or research in any 
+place and form - requires more socializing than one would expect and is somewhat integral to the job. Data 
+doesn't exist in a vacuum after all. 
+
+This is also very minor, but the grading in this course is lightning fast for hand grading. 
+
+Workload: light/medium (writing), medium/heavy (scheduling)
 
 #### SIADS 611 - Database Architecture and Technology
 An extension of 511. Still in Postgres. You get to play with a lot of the cool postgres features that not all dbs have.
@@ -195,6 +210,17 @@ An extension of 511. Still in Postgres. You get to play with a lot of the cool p
 Workload: light
 
 Songs: Camila Cabello mostly. Shameless and Liar.
+
+#### SIADS 630 - Casual Inference
+
+Programming assignments on par with 631 I think. Maybe a little easier because you'll almost exclusively use one
+library. Most of the difficulties lie in answering the qualitative questions. I'm not particularly good at statistics,
+ but I suspect more of it is not using it as regularly as to commit it to memory, and this course is particularly 
+ useful in developing a framework around how to approach answering questions. Would very much like to see further 
+ development and/or extensions of this course, to be honest, as it's more high level than I would like. 
+
+Workload: light
+
 
 #### SIADS 631 - Experiment Design and Analysis
 
@@ -235,14 +261,15 @@ could use a bit more material to take on.
 Workload: light
 
 #### SIADS 652 - Network Analysis
-Timely and convenient! Nothing like a global pandemic to let the epidemic networkx models sink in. This is a combo quiz
-+ written answer + quiz course that leans heavier on programming assignments than other similarly structured courses, but
-because of it takes a bit longer to get through than a pure programming course (from my point of view) but less time
-than a full written course. I've used basic networkX before but this covers details about a lot of the various models 
-implemented within networkX, which is nice because networkX's documentation itself is a bit on the sparse side. 
-Programming assignments are one very long jupyter notebook, so be warned: like NLP, small bugs can potentially be a 
-huge timesink (there was one for the random seed, which is nigh impossible to debug on your own) since there are not 
-enough asserts in the homework. Also, many quiz questions can be answered using networkX and I strongly suggest you do so.
+Timely and convenient! Nothing like a global pandemic to let the epidemic networkx models sink in. This is a combo 
+ quiz/written answer/programming course that leans heavier on programming assignments than other similarly structured 
+ courses, but because of the quiz/writing takes a bit longer to get through than a pure programming course (from my 
+ point of view) but less time than a full written course. I've used basic networkX before but this covers details 
+ about a lot of the various models implemented within networkX, which is nice because networkX's documentation itself 
+ is a bit on the sparse side. Programming assignments are one very long jupyter notebook, so be warned: like NLP, 
+ small bugs can potentially be a huge timesink (there was one for the random seed, which is nigh impossible to debug 
+ on your own) since there are not enough asserts in the homework. Also, many quiz questions can be answered using 
+ networkX and I strongly suggest you do so.
 
 Workload: medium
 
