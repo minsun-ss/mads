@@ -3,12 +3,11 @@
 ### Personal Background
 Undergrad:  CS major undergrad. Most of my entire career involved little to no programming,
 but true to everyone in finance generally, quite a lot of excel. My current job (which started the same time as MADS),
-is actually quite programming heavy. I haven't really used excel at all in the past year, which is kind of nice.
+is actually quite programming heavy. I don't really use excel at all anymore, which is kinda nice. 
 
 Python background: I had <1 month of python when I applied to the program (I found out about MADs in the first 
-place while doing the Python 3 coursera...), so 6 months by the time I entered the program. Less than 6 of actual
-practical experience, though, since I didn't really use it for work and most of that time between
-was spent interviewing for a new job.
+place while doing the Python 3 coursera...), so ~6 months with little practical experience (excel, remember...)
+by the time I entered the program.
 
 Statistics background: Basic stats. I ended up focusing more on theory in my CS major to fulfill math requirements 
 over applied courses. Still, probably sufficient for this masters, I guess? I just reviewed Statistics in Plain English
@@ -19,12 +18,13 @@ Other math courses taken: Single variable calculus, linear algebra, probability/
 Family/work/lifestyle: Full time job (50 hours/week not including commute), children, gym (1 hour a day). 
 Early on, was also taking language classes which stopped when Covid happened. 
 
-General number of courses I take per month: I started at 1/month then switched to 2 and upwards to 3 if classes are
-coding heavy because I find those, timewise, the least intensive. Occasionally I'll drop to 1 if
-my work/personal life is very busy for that month or I want to exclusively focus on a topic. 
+General number of courses I take per month: I started at 1/month + language classes. Then once the language classes
+went goodbye, switched to 2-3 if classes are coding heavy because I find those, timewise, the least intensive. 
+Occasionally I'll drop to 1 if my work/personal life is very busy for that month or I want to exclusively focus on a 
+topic.
 
 I also tend to forget about what I'm listening to while I code so I pretty much associate all these classes with 1 or 2
-songs that I leave on repeat.  
+songs that I leave on repeat.
 
 #### SIADS 501 - Being a Data Scientist
 Similar to 503, quite a great deal of writing. Writing for this one might seem a bit easier to write since it's very 
@@ -263,7 +263,7 @@ Workload: light
 #### SIADS 652 - Network Analysis
 Timely and convenient! Nothing like a global pandemic to let the epidemic networkx models sink in. This is a combo 
  quiz/written answer/programming course that leans heavier on programming assignments than other similarly structured 
- courses, but because of the quiz/writing takes a bit longer to get through than a pure programming course (from my 
+ courses, but because of the quiz/writing it takes a bit longer to get through than a pure programming course (from my 
  point of view) but less time than a full written course. I've used basic networkX before but this covers details 
  about a lot of the various models implemented within networkX, which is nice because networkX's documentation itself 
  is a bit on the sparse side. Programming assignments are one very long jupyter notebook, so be warned: like NLP, 
@@ -283,3 +283,18 @@ debugging if you have the misfortune of making a mistake somewhere as you go thr
 NLP material though, lots of good stuff. 
 
 Workload: light (medium/heavy on debugging if you make a mistake somewhere)
+
+#### SIADS 682 - Social Media Analytics
+This is a pretty good application course; outside of week 1, the rest of the
+weeks touches on things you've learned previously, but applied to social media data. So the
+course itself really has few, if any, lectures; you'll do more paper readings/reflections and coding. 
+But if you don't really remember anything from 522 (Altair), 652 (using networkX), 632 (using statsmodels), 
+or even 655 (gensim), you should uhhh try to remember again. There's a lot of autonomy built into the course 
+(e.g., I feel the HWs and suchlike sort of implicitly assume you know what you are doing and that you should have 
+few, if any, difficulties; the autograder is generally there to move you in the right direction), which I suppose 
+will be a hit or miss depending on the audience. Probably a miss for those who prefer a lot more hand holding. 
+To be fair, the coding hws could definitely have used another pass to get rid of the copy paste errors. If there 
+was only 1 beef to be had, it would be making me try to remember how do viz with not one, but three libraries 
+(mpl, altair, and seaborn). I guess sns is more like mpl 1.5 so 2.5 libraries. 
+
+Workload: light
