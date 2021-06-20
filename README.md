@@ -295,6 +295,35 @@ few, if any, difficulties; the autograder is generally there to move you in the 
 will be a hit or miss depending on the audience. Probably a miss for those who prefer a lot more hand holding. 
 To be fair, the coding hws could definitely have used another pass to get rid of the copy paste errors. If there 
 was only 1 beef to be had, it would be making me try to remember how do viz with not one, but three libraries 
-(mpl, altair, and seaborn). I guess sns is more like mpl 1.5 so 2.5 libraries. 
+(mpl, altair, and seaborn). I guess sns is more like mpl 1.5 so 2.5 libraries.
 
 Workload: light
+
+#### SIADS 685 - Search and Recommender Systems
+Watch out! If you've found 632 time intensive, I would seriously consider how you plan this course around other courses.
+685 is approximately 1.3x more time and work than 632. You will be expected  to write and test much larger code pieces, 
+so if you've found 632 manageable _without relying on the autograder to test your answers for you_ then you will find
+685 manageable. Basically take all of week 1 in 632 and pretend it was a single assignment to submit at once (while 
+checking your work all at once), and you'll have some idea of where the pain points will be in 685. Really
+excellent course, though, slides are very clear and it's such an interesting topic. Like 632, a bit lumpy on the HW: week 
+1 and 2 are the heaviest, and then week 3 and 4 relatively low effort. Would not pair this course that also have heavy
+first and second week assignments though, unless you have a lot of free time. 
+
+Workload: heavy (first 2 weeks), light (last 2 weeks)
+
+#### SIADS 694/695 - Milestone 2
+Where do I begin. I'm not sure where to begin on this one. So let's start with the basics: another oral exam. 6 questions,
+2 of which will be the topic of the oral exam (something from 1-3 and something from 4-6; in my cohort I don't think I met
+anyone who got question 3 or 4, though). May or may not be an oral exam with professors listening to you; they unrolled 
+an async exam when I took it. ML project of some sort in groups of 1-2: must experiment with at least 3 supervised 
+learning approaches and 2 unsupervised approaches. Similar to milestone 1 in that you submit a final report, 10-12 pages.
+
+Things to be aware of, and maybe this will change in later iterations, but: there is a week 6 and 7 ungraded checkin 
+that no one reminds you about (not even in Slack) and you'll only see if  you click into those weeks in Coursera; 
+zero rubric made available for the oral exam grading, so you'll be in the dark there; extremely late grading so you won't
+know your project proposal/final proposal until close to the end of the course; a project outline/grading schema that
+provides zero rubrics for projects that don't rely on the data sets provided by the course; somewhat bad/inconsistent office 
+hours (you're honestly better off DMing the staff). So with that out of the way: get your project and partners together early
+and try to get your questions out of the way as early as you can because you will be put in a very tight spot otherwise. 
+
+No, I did not have a meltdown in this course, but I felt quite like I did when I took 502. 
