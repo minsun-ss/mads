@@ -284,6 +284,14 @@ NLP material though, lots of good stuff.
 
 Workload: light (medium/heavy on debugging if you make a mistake somewhere)
 
+#### SIADS 680 - Learning Analytics
+Hm. Python wise, this might be a little more intensive than Social Media Analytics and definitely a lot less than Search
+and Recommender Systems. The final week, however, has a very heavy Dash dashboard component to it and you've never
+worked with Dash or Flask before, it can be a bit of an uphill climb on short notice. Weekly readings and case studies
+with written reflections (quite a heavy chunk of this), and programming assignments every week. I would say that the 
+subject itself is not directly interesting to me, so was a bit unenthused about taking this elective. Assignments were
+fairly interesting, though.
+
 #### SIADS 682 - Social Media Analytics
 This is a pretty good application course; outside of week 1, the rest of the
 weeks touches on things you've learned previously, but applied to social media data. So the
