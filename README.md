@@ -1,4 +1,4 @@
-# Sharon Sung (Fall 2019 Cohort)
+# University of Michigan, Applied Data Science Program, Fall 2019 Cohort
 
 ### Personal Background
 Undergrad:  CS major undergrad. Most of my entire career involved little to no programming,
@@ -23,8 +23,14 @@ went goodbye, switched to 2-3 if classes are coding heavy because I find those, 
 Occasionally I'll drop to 1 if my work/personal life is very busy for that month or I want to exclusively focus on a 
 topic.
 
-I also tend to forget about what I'm listening to while I code so I pretty much associate all these classes with 1 or 2
-songs that I leave on repeat.
+#### 2021 Update Post Graduation
+If you want to know where I'm at now, I didn't switch positions upon graduation; in some sense I had been migrating 
+already during the course of the program. I believe a fair number of classmates in the same cohort were doing the same 
+(migrating to data science oriented positions). If someone from UMich reads this, btw, I'd really love for the school 
+to roll out an online Masters of Computer Science! 
+
+I'm not sure what I do now fits that comfortably in the realm of data science. Perhaps data engineering? Big data quant 
+work? These are pretty fuzzy terms. I still work pretty closely with data, just not really in notebooks anymore that often.
 
 #### SIADS 501 - Being a Data Scientist
 Similar to 503, quite a great deal of writing. Writing for this one might seem a bit easier to write since it's very 
@@ -211,6 +217,16 @@ Workload: light
 
 Songs: Camila Cabello mostly. Shameless and Liar.
 
+#### SIADS 622 - Information Visualization 2
+An extension of 522. This is quite the late review, but you definitely don't want to take this course while you're
+doing the capstone. Between work and the capstone, I literally have 0 memories of the course other than doing
+the absolute bare minimum to get this going and it's a pity this was rolled out so late becuase honestly I would've 
+benefited a lot more from this outside of the milestone/capstones. It's a lot of altair and like the previous 
+visualization class, you'll get penalized for not replicating the charts perfectly. Also I'm pretty sure I didn't 
+deserve the grade I got for this course due the final curve that applied to my particular iteration of the class.
+
+Workload: light/medium
+
 #### SIADS 630 - Casual Inference
 
 Programming assignments on par with 631 I think. Maybe a little easier because you'll almost exclusively use one
@@ -335,3 +351,12 @@ hours (you're honestly better off DMing the staff). So with that out of the way:
 and try to get your questions out of the way as early as you can because you will be put in a very tight spot otherwise. 
 
 No, I did not have a meltdown in this course, but I felt quite like I did when I took 502. 
+
+#### SIADS 697/698 - Capstone 
+Similarish to the milestones, except now you have complete freedom to do what you want. Team of 3 (or 4 - we did a 
+team of 4). Difficulty largely based on how ambitious your project, you know the drill for milestones. Much better
+staff support this time around, but to be fair the final 2 months I was literally mentally checked out of the program - 
+I was burning out from both ends from coding at work and finishing the deadlines for things.
+
+Would suggest taking a milestone out of your combined partner's projects to scale up significantly, so you're not
+starting completely at zero, but this is largely at your discretion. 
